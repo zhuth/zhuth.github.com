@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zhu.tianhua.me</id>
     <title>Tianhua Zhu</title>
-    <updated>2021-05-29T23:29:59.672Z</updated>
+    <updated>2021-05-29T23:46:38.377Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zhu.tianhua.me"/>
     <link rel="self" href="https://zhu.tianhua.me/atom.xml"/>
@@ -10,20 +10,11 @@
     <icon>https://zhu.tianhua.me/favicon.ico</icon>
     <rights>All rights reserved 2021, Tianhua Zhu</rights>
     <entry>
-        <title type="html"><![CDATA[Happy Spring Festival 2021]]></title>
-        <id>https://zhu.tianhua.me/post/spring-2021/</id>
-        <link href="https://zhu.tianhua.me/post/spring-2021/">
-        </link>
-        <updated>2021-02-11T08:21:55.000Z</updated>
-        <content type="html"><![CDATA[<p>Wish you all a joyful spring festival!</p>
-]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[About]]></title>
         <id>https://zhu.tianhua.me/post/about/</id>
         <link href="https://zhu.tianhua.me/post/about/">
         </link>
-        <updated>2019-01-25T11:09:48.000Z</updated>
+        <updated>2021-05-29T23:46:29.000Z</updated>
         <summary type="html"><![CDATA[<p>Tianhua Zhu (b. 1990) is a Shanghai-based reseacher on computer art, aesthetics, and anthropology of art. His research interest focuses on the intersection of science, technology and culture. He is now working on the histography of computer art (including AI &amp; art).</p>
 ]]></summary>
         <content type="html"><![CDATA[<p>Tianhua Zhu (b. 1990) is a Shanghai-based reseacher on computer art, aesthetics, and anthropology of art. His research interest focuses on the intersection of science, technology and culture. He is now working on the histography of computer art (including AI &amp; art).</p>
@@ -66,6 +57,15 @@
 <p>B.Sc. in Computer Science and Technology, Fudan University, 2013.</p>
 <h2 id="contact">Contact</h2>
 <p>zhu <em>at</em> tianhua.me</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Happy Spring Festival 2021]]></title>
+        <id>https://zhu.tianhua.me/post/spring-2021/</id>
+        <link href="https://zhu.tianhua.me/post/spring-2021/">
+        </link>
+        <updated>2021-02-11T08:21:55.000Z</updated>
+        <content type="html"><![CDATA[<p>Wish you all a joyful spring festival!</p>
 ]]></content>
     </entry>
 </feed>
