@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://zhu.tianhua.me</id>
+    <title>Tianhua Zhu</title>
+    <updated>2023-09-14T00:38:12.087Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://zhu.tianhua.me"/>
+    <link rel="self" href="https://zhu.tianhua.me/atom.xml"/>
+    <logo>https://zhu.tianhua.me/images/avatar.png</logo>
+    <icon>https://zhu.tianhua.me/favicon.ico</icon>
+    <rights>All rights reserved 2023, Tianhua Zhu</rights>
+    <entry>
+        <title type="html"><![CDATA[中文页面]]></title>
+        <id>https://zhu.tianhua.me/post/zhong-wen-ye-mian/</id>
+        <link href="https://zhu.tianhua.me/post/zhong-wen-ye-mian/">
+        </link>
+        <updated>2022-02-14T08:49:36.000Z</updated>
+        <content type="html"><![CDATA[<p><a href="https://www.innovors.com/site/">点击跳转</a></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[About]]></title>
+        <id>https://zhu.tianhua.me/post/about/</id>
+        <link href="https://zhu.tianhua.me/post/about/">
+        </link>
+        <updated>2021-12-16T08:09:57.000Z</updated>
+        <summary type="html"><![CDATA[<p>My research interests generally lie in the intersection of technology and art. I am particularly motivated by the question of how technology serves as a medium through which people communicate, convey, and contemplate their own circumstances.<br>
+Recently I particularly focus on the interdisciplinary research of creativity and machine intelligence, against the backdrop of the evolving media landscape in modern art history. See publications for details.</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>My research interests generally lie in the intersection of technology and art. I am particularly motivated by the question of how technology serves as a medium through which people communicate, convey, and contemplate their own circumstances.<br>
+Recently I particularly focus on the interdisciplinary research of creativity and machine intelligence, against the backdrop of the evolving media landscape in modern art history. See publications for details.</p>
+<!-- more -->
+<h2 id="publications">Publications</h2>
+<p>(All publications are in Chinese unless otherwise noted)</p>
+<ul>
+<li><em>On the Morphogenesis of Computer Art</em> 计算机艺术的形态发生. Monogrgaph. Shanghai Science and Technology Publishing House, forthcoming 2024.</li>
+<li>When is AIGC Art: From Morphological Similarity to Art Condition; AIGC“何时为艺术”：从形态相似性到艺术条件. <em>Chinese Journal of Art Studies</em>, May 2023. [<a href="https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKu87-SJxoEJu6LL9TJzd50lyAt8KYDFPwYubdXP9UqfsNGZBQY5arXQafN8KMusBGLziLbNuUqrI&amp;uniplatform=NZKPT">cnki</a>]</li>
+<li>The Trap of &quot;Algorithm&quot; the Synecdoche 算法提喻的话语陷阱. <em>China Book Review</em>, Jan 2023. [<a href="https://kns.cnki.net/kns8/Detail?sfield=fn&amp;QueryID=0&amp;CurRec=1&amp;recid=&amp;FileName=ZTPL202301004&amp;DbName=CJFDLAST2023&amp;DbCode=CJFD&amp;yx=&amp;pr=CJFV2023;&amp;URLID=">cnki</a>]</li>
+<li>Towards a Metaphorical &quot;Metaverse&quot;: the Realization of Value of Digital Artifacts 走向隐喻的“元宇宙”:数字制品的价值兑现. <em>China Book Review</em>, Dec 2022. [<a href="https://kns.cnki.net/kcms2/article/abstract?v=7TmSCfBWqMXD05HLqzcIqMuQJw4_iNeBLfCWCfODvzkmIiNgihhN67B_M3QFLFQy0xsdL7OrftyQK6HvkX-wtAuIcLkAXV2vJVbNE41AXr7lIz9sqcAaQQ==&amp;uniplatform=NZKPT">cnki</a>]</li>
+<li>The Rise of NFT Trading and the Value Basis of Digital Art NFT交易的兴起与数字艺术的价值依据. <em>Shanghai Culture</em>, Aug 2022. [<a href="https://kns.cnki.net/kns8/Detail?sfield=fn&amp;QueryID=1&amp;CurRec=1&amp;recid=&amp;FileName=PSHW202208012&amp;DbName=CJFDAUTO&amp;DbCode=CJFD&amp;yx=&amp;pr=CJFU2022;&amp;URLID=">cnki</a>]</li>
+<li>Technical Analysis Revisited: Sense-Making and Artistic Potential of Computer-Based Images 重审技术分析：计算机图像的意义生成与艺术潜能. <em>Chinese Journal of Art Studies</em>, Jun 2022. [<a href="https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&amp;dbname=CJFDAUTO&amp;filename=YSQK202203012&amp;uniplatform=NZKPT">cnki</a>] (人大复印报刊转载)</li>
+<li>From Textual Experiments to Experimental Texts: Expressive Repetition in 'Artificial Intelligence Literature' 从文本实验到实验文本：“人工智能文学”的表达性重复. <em>Theoretical Studies in Literature and Art</em>, Sep 2021, 41 (5). [<a href="http://tsla.ecnu.edu.cn/CN/abstract/abstract1328.shtml">fulltext</a>] (《社会科学文摘》摘编; <strong>English version</strong>, <em>SASS Studies</em>, Winter 2021, <a href="https://arxiv.org/abs/2201.02303">[arXiv]</a>)</li>
+<li>Jiangnan Culture System in Shanghai Countryside Landscape 上海郊野景观中的江南文化系统. <em>Global Cities Research</em>, Sep 2021, No. 5, secondary author. [<a href="https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&amp;dbname=CJFDLAST2021&amp;filename=QQCS202103014&amp;uniplatform=NZKPT">cnki</a>]</li>
+<li>Analysis of participation level and influencing factors of online science popularization activities 在线科普活动的参与水平与影响因素分析. <em>Educational Communication and Technology</em>, Jun 2021, No. 3, secondary author. [<a href="https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&amp;dbname=CJFDLASN2021&amp;filename=CBJS202103018">cnki</a>]</li>
+<li>Patterns in Cultural Responses to Technical Claims, Illustrated with Controversies about Cybernetics in France and the Soviet Union (1950-1960) 技术主张的文化响应模式——以法、苏报刊中的控制论论争为中心（1950-1960）. <em>Studies in Dialectics of Nature</em>, Apr 2021, 37 (4). [<a href="https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&amp;dbname=CJFDLAST2021&amp;filename=ZRBZ202104011">cnki</a>]</li>
+<li>Yan Fu and the Modernization of Chinese Literature Concept 严复与中国文学观念的现代转型. <em>Fudan Journal (Social Sciences Edition)</em>, 2021, 63 (1), secondary author. [<a href="https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&amp;filename=FDDX202101004&amp;dbname=CJFDAUTO">cnki</a>] (《社会科学文摘》摘编)</li>
+<li>Defining Computer Art: Methods, Themes, and the Aesthetic Problematic 計算機藝術的界定：方法、主題與美學問題域 (<strong>in English</strong>). <em>Culture in China</em> (Canada), Dec 2020, 1 (4). [<a href="http://arxiv.org/abs/2010.04929">arXiv</a>]</li>
+<li>Computer Art as an Aesthetic Problem Domain 作为美学问题域的计算机艺术. <em>Shanghai Culture</em>, Dec 2020, (12). [<a href="https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&amp;filename=PSHW202012005&amp;dbname=CJFDLAST2021">cnki</a>] (人大复印报刊转载)</li>
+<li>Who Empowers &quot;Self-Media&quot;? 谁为“自媒体”赋能？. <em>Wen Hui Bao</em> (Shanghai), 27 Dec 2019. [<a href="http://ex.cssn.cn/zm/201912/t20191227_5066045.shtml">fulltext</a>]</li>
+<li>On Simondon's <em>Technoesthetics</em> 西蒙栋“技术美学”评析. <em>Studies in Dialectics of Nature</em>, May 2018, 34 (5). [<a href="https://www.academia.edu/37083556/">fulltext</a>]</li>
+<li>Shen Congwen's Writing and Research in the Perspective of History of Folklore: 1926-1949 民俗学史视角下沈从文的创作与研究：1926-1949. <em>Literary and Art Review</em>, Oct 2016, (10). [<a href="https://www.academia.edu/37083551/">fulltext</a>]</li>
+<li>On Shūzō Kuki's Contigency-Based View of Art 论九鬼周造基于偶然性的艺术观. <em>Theory Horizon</em>, Oct 2016, (10). [<a href="https://www.academia.edu/33371967/">fulltext</a>]</li>
+<li>Textual Encoding and Pictorial Presenting of Foreign Cities in Wang Tao's <em>Manyou Suilu</em> 王韬《漫游随录》中域外城市的文本编码和图像表达. <em>Shanghai Culture</em>, Oct 2014, (10). [<a href="https://www.academia.edu/33371953/">fulltext</a>]</li>
+<li>The Origin and Meaning of Technological Imagination in Sci-Fi in Late-Qing Dynasty, Illustrated by the Cases of 'Electricity' and 'Chemistry' 晚清科学小说中技术想象的来源与意义探析 以“电”和“化学”为例. <em>Science &amp; Culture Review</em> (CAS), Aug 2014, 11 (4). [<a href="https://www.academia.edu/9291783/">fulltext</a>]</li>
+</ul>
+<h2 id="conference-presentations-selected">Conference Presentations (Selected)</h2>
+<ul>
+<li>&quot;Performance: Towards an Ontology of Art for New Media,&quot; 演绎：通向新媒体的艺术本体论 presented at the &quot;New Media, New Discourse: Knowledge System Reconstruction in Literary Theory&quot; conference, organized by the Chinese Association for Literary Theory and the School of Literature, Shanghai University, 19 Aug 2023.</li>
+<li>&quot;Artificial Intelligence in Everyday Discourse,&quot; 日常话语中的人工智能 presented at the Young Scholars Workshop on Poetic Discourse in Everyday Life, School of Humanities, Tongji University, 11 Jun 2023.</li>
+<li>&quot;Transformation of Technological Discourse and Genealogy Reconstruction in Artificial Intelligence,&quot; 人工智能的技术话语转型与谱系学重构 presented at the &quot;Beyond Intelligence? New Horizons for Human Civilization in the Era of ChatGPT Wave&quot; high-end forum, organized by the Institute of Literature, Shanghai Academy of Social Sciences, 19 Feb 2023.</li>
+<li>Games as Interfaces 游戏作为界面. Presented on &quot;Refusing Re-/Play: Mental Ecology of Gaming,&quot; organized by College of Arts &amp; Media of Tongji University, 14 Nov 2021.</li>
+<li>Utopian Function of Technological Images: An Anthropological Perspective on Experimental Animation Techniques 技术图像的乌托邦功能——实验动画技术的人类学审视. In cooperation with Huang Jingcao, presented on &quot;Art Forum of BFA 2021,&quot; organized by Institute of Chinese Film Culture of Beijing Film Academy, 6-7 Nov 2021.</li>
+<li>Technological <em>Erlebnis</em> and <em>Erfahrung</em> in Paul Virilio's Aesthetic Turn 维利里奥美学转向中的技术体验与技术经验. Panel speaker on &quot;Post-War French Thoughts and Changes in Contemporary Art Theory,&quot; organized by Department of Art Philosophy of Fudan University, and <em>Theoretical Studies in Literature and Art</em>, 5-6 Nov 2021.</li>
+<li>The Aesthetic Promise of Computer Art 计算机艺术的美学承诺. Keynote speech on &quot;New Art Anthropology: Beyond the West - 2019 High-End Symposium,&quot; organized by Department of Chinese Language and Literature of Fudan University, among others, 30 Nov 2019.</li>
+<li>From Cybernetics to Artificial Intelligence: Situational Inter-embedding in Computer Art 从控制论到人工智能：计算机艺术的情境互嵌. Panel speaker and moderator on &quot;The Current State of Knowledge in the Age of AI: A Symposium in Commemoration of the 40th Anniversary of Lyotard's <em>Postmodern Condition</em>,&quot; organized by School of Humanities of Tongji University, among others, 6 Nov 2019.</li>
+</ul>
+<h2 id="grants">Grants</h2>
+<ul>
+<li>National Social Science Foundation of China (Art Studies), Grant No. 21CA169 &quot;An Anthropological-Aesthetic Investigation on the Historical-Genetic Problem of Computer Art&quot; 计算机艺术历史生成问题的人类学美学研究</li>
+<li>National Social Science Foundation of China, Later Stage Grants, Grant No. 21FZWB091 &quot;The Morphogenesis of Computer Art&quot; 计算机艺术的形态发生</li>
+<li>Intra-Institutional Tender Project, Shanghai Academy of Social Sciences, 2020, &quot;A Study on the Social Values of AI Art &amp; Literature&quot; 人工智能文艺的社会价值研究</li>
+</ul>
+<h2 id="media-articles-selected">Media Articles (Selected)</h2>
+<ul>
+<li>“数字城市”更需要地方感 <a href="https://www.jfdaily.com/staticsg/res/html/journal/detail.html?date=2021-06-21&amp;id=315959&amp;page=15">Jiefang Daily</a></li>
+<li>部落聚会与人工智能写诗 <a href="https://www.thepaper.cn/newsDetail_forward_11188299">The Paper</a></li>
+<li>虚拟城市、网络空间与文学 <a href="https://www.thepaper.cn/newsDetail_forward_11142060">The Paper</a></li>
+<li>“北京东路制造”：从工业物件到城市艺术 <a href="https://www.thepaper.cn/newsDetail_forward_3150073">The Paper</a></li>
+<li>寻找北京东路的意义 <a href="https://www.thepaper.cn/newsDetail_forward_2920106">The Paper</a></li>
+<li>从下海庙探寻城市空间的历史 (secondary author) <a href="https://www.thepaper.cn/newsDetail_forward_3464156">The Paper</a></li>
+<li>“活的景观”：滨江空间与日常生活 <a href="https://www.thepaper.cn/newsDetail_forward_2897865">The Paper</a></li>
+</ul>
+<h2 id="education">Education</h2>
+<p>Ph.D. in Aesthetics, Fudan University, 2018.</p>
+<p>B.A. in Chinese Language and Literature, Fudan University, 2014.</p>
+<p>B.Sc. in Computer Science and Technology, Fudan University, 2013.</p>
+<h2 id="contact">Contact</h2>
+<p>zhu <em>at</em> tianhua.me</p>
+]]></content>
+    </entry>
+</feed>
