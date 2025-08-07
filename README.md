@@ -12,11 +12,6 @@ E-mail: thzhu15 \[at\] fudan.edu.cn
 - 计算机艺术与美学 Computer Art & Aesthetics
 - 科学技术哲学 Philosophy of Science and Technology
 
-
-## 关于我 About Me
-
-
-
 ## 发表论文 Publications
 
 1. 朱恬骅：《从可解释性悖论到计算性诗学：人工智能文本生成的解释策略》，《求索》2025年第3期，第96—104页
