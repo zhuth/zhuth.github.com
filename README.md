@@ -12,6 +12,8 @@ E-mail: thzhu15 \[at\] fudan.edu.cn
 - 计算机艺术与美学 Computer Art & Aesthetics
 - 科学技术哲学 Philosophy of Science and Technology
 
+主要聚焦计算机技术与文学艺术的交叉领域，探究新技术如何成为艺术表达的手段，并对艺术形式产生新的影响。近期的研究重点为人工智能文艺，认为人工智能模型本身可以成为一种潜在的艺术表达形式，并以技术设计者、使用者同相关作品的创作者之间建立合作关系为前提。在梳理把握计算机艺术的历史实践和当代发展的基础上，对计算机艺术的主题式界定，论述了这种“计算机艺术”的基本属性、物质基础和观念渊源，为进一步探究其中突显的文艺美学基本问题提供了概念工具。
+
 ## 发表论文 Publications
 
 1. 朱恬骅：《从可解释性悖论到计算性诗学：人工智能文本生成的解释策略》，《求索》2025年第3期，第96—104页
@@ -47,12 +49,15 @@ E-mail: thzhu15 \[at\] fudan.edu.cn
 ## 专著 Monograph
 
 1. 朱恬骅：《计算机艺术的形态发生》，上海：上海科学技术出版社，2024年
+  - 陈霖：[数字艺术跨媒介实践的三重辩证逻辑及其潜能](https://kns.cnki.net/kcms2/article/abstract?v=IKKGlZ0AkeWhEc3hrU5nwEPsucixYRjdSqtLuk2BHeBZQBWxxlrNJ3j_cF0pkKZeXR1YX4GpE6suVxw1oPWVP96imjY5pyNZeM9BfK1yrpF3qU1lWPrcsPppSmG9ovyNZRu9eyfKACSF7VWMLLAW97wWakeZWYOMTNF97BbZQwo=&uniplatform=NZKPT)
 
 ## 译著 Translated Work
 
 1. \[巴西\] 威廉·弗卢塞尔：《书写还有未来吗？》，朱恬骅译，上海：东方出版中心，2024年
 (Vilém Flusser, _Die Schrift: Hat Schreiben Zukunft?_, Göttingen: European Photography, 2002.)
-
+  - 秦兰珺：[为书写，写一篇“深情”却不“长情”的悼文——读《书写还有未来吗?》](https://kns.cnki.net/kcms2/article/abstract?v=IKKGlZ0AkeUnHk-FtfOvGsnR4xkIudz1KhuXK3NlSBpoElIYsTsqolcBxSjn_h7xBxb4XW_s6gj921t_C3yHVAsTZ7BFop0qsWydK-j5mqUEa30gDrvMnCRue64I72wO_1DWC7b0NjHrtdi2Fa0SNEqRRXGubE7OnW7HMNWpivw=&uniplatform=NZKPT)
+  - 车致新：[书写的历史与未来](https://kns.cnki.net/kcms2/article/abstract?v=IKKGlZ0AkeXcUSHdtQ2BlOxWJ_D_A6hWT8c5GjpoRyMtDAEd0MssnWVhap6m11gazgY2qIcDLX5KNARoZaQ01ZB3pfYcPvcZVKmT608-y_VPRIZQLxQGxl8_5BLmzCdL7pDeacMaw7Q80C9-7EZ2d_wFVXpL2D8vr2Ttryxe82Y=&uniplatform=NZKPT)
+  - 于成：[游玩与阅读的耦合——电子游戏重新定义阅读](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2025&filename=SZCB202501011)
 
 ## 媒体文章 Media Articles
 
