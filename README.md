@@ -49,6 +49,10 @@ E-mail: thzhu15 \[at\] fudan.edu.cn
 ## 专著 Monograph
 
 1. 朱恬骅：《计算机艺术的形态发生》，上海：上海科学技术出版社，2024年
+  - 郑元者：[序言](https://www.sohu.com/a/754401924_121856459)
+  - [结论试读：计算机艺术的未来与未来艺术](https://wxs.sass.org.cn/2024/0718/c6913a572525/page.htm)
+  - [《上海文化》2025年6月介绍](https://kns.cnki.net/kcms2/article/abstract?v=IKKGlZ0AkeV7tW8n3gffXU5XzXDE1ReLC-3lAfTtAn4HsuqsbTfjTJhc4JItgF5NDkDC7QmT2sWz7sM7qEieRzYCGx1dGu48MdqyO_KKMj1P9oTg_yI-rK5AJenXS1hA5eEzlSISr5LcZBLOvVgXMQBVBqCgARkP&uniplatform=NZKPT)
+  引证情况：
   - 陈霖：[数字艺术跨媒介实践的三重辩证逻辑及其潜能](https://kns.cnki.net/kcms2/article/abstract?v=IKKGlZ0AkeWhEc3hrU5nwEPsucixYRjdSqtLuk2BHeBZQBWxxlrNJ3j_cF0pkKZeXR1YX4GpE6suVxw1oPWVP96imjY5pyNZeM9BfK1yrpF3qU1lWPrcsPppSmG9ovyNZRu9eyfKACSF7VWMLLAW97wWakeZWYOMTNF97BbZQwo=&uniplatform=NZKPT)
 
 ## 译著 Translated Work
