@@ -16,30 +16,30 @@ E-mail: thzhu15 \[at\] fudan.edu.cn
 
 ## 发表论文 Publications
 
-1. 朱恬骅：《从可解释性悖论到计算性诗学：人工智能文本生成的解释策略》，《求索》2025年第3期，第96—104页
+1. 朱恬骅：《从可解释性悖论到计算性诗学：人工智能文本生成的解释策略》，《求索》2025年第3期，第96—104页 [[cnki]](https://kns.cnki.net/kcms2/article/abstract?v=IKKGlZ0AkeVgSoc-bMF6432LTP_553E-yF2TjL7ujDn43rHhvWuieYrf1yljwlskSs2eUnH3AE3oUnrytCbA7iUWxVcfcSTCg_bkShkDZ_MgQ9uHS4Q3J_DBVVymn5MUV6U0s8p6Iawpwm5yH6KK8UQjiMGKhhFq&uniplatform=NZKPT)
 1. 黄劲草、朱恬骅：《培育“人工智能观”：教学实践与有效性依据》，《数字人文》2025年第1期，第35—51页
-1. 朱恬骅：《制造诗歌机器：文本生成的诗学》，《文艺论坛》2024年第6期，第67—74页
-1. 朱恬骅：《出版的可能未来：技术装置再生产中的电子游戏》，《现代出版》2024年第11期，第47—54页
-1. 朱恬骅：《图像媒介与颜色理论的历史生成：摄影术、水彩与数字图像》，《北京电影学院学报》2024年第9期，第14—25页
-1. 朱恬骅：《人工智能影像生成的模型诗学》，《电影艺术》2024年第5期，第28—34页
-1. 朱恬骅：《言语行为、文学书写与装置编程：城市漫步的三种模式》，《中国图书评论》2024年第8期，第21—30页
-1. 朱恬骅：《人工智能会创作吗？——“类文学文本”生成的创造力疑难与集体性方案》，《南京社会科学》2024年第7期，第113—121页
-1. 朱恬骅：《“另类”与“日常”：城市更新中的艺术空间》，《上海文化》2024年第4期，第81-88+101页
-1. 朱恬骅：《AIGC“何时为艺术”——从形态相似性到艺术条件》，《艺术学研究》2023年第3期，第76—88页
-1. 朱恬骅：《“算法”提喻的话语陷阱》，《中国图书评论》No.383第1期，2023年，第10—17页
-1. 朱恬骅：《走向隐喻的“元宇宙”：数字制品的价值兑现》，《中国图书评论》No.382第12期，2022年，第18—30页
-1. Tianhua Zhu, “From Textual Experiments to Experimental Texts: Expressive Repetition in ‘Artificial Intelligence Literature,’” _SASS Studies_, no. 23 (Winter 2021), pp. 124-142.
-1. 朱恬骅：《NFT交易的兴起与数字艺术的价值依据》，《上海文化》2022年第8期，第89—94页
-1. 朱恬骅：《重审技术分析：计算机图像的意义生成与艺术潜能》，《艺术学研究》2022年第3期，第132—142页
+1. 朱恬骅：《制造诗歌机器：文本生成的诗学》，《文艺论坛》2024年第6期，第67—74页 [[cnki]](https://link.cnki.net/doi/10.14039/j.cnki.cn43-1515/i.2024.06.008)
+1. 朱恬骅：《出版的可能未来：技术装置再生产中的电子游戏》，《现代出版》2024年第11期，第47—54页 [[cnki]](https://kns.cnki.net/kcms2/article/abstract?v=IKKGlZ0AkeWgO3nvcu3TvYsj_nXpY1MQSgv5GMFAhE6wrb_s0oOPvZohnUS7QA3uV2C3m6lW3DDOtZ64CbX5wUHzK1cLQ1l6ejt00tmfLGi9Ifq2HraePDpS-uMqrMM4JO5Gypme0EwZQZw9f0tTjPVN7mVgGIEYz35FjSrTXKc=&uniplatform=NZKPT)
+1. 朱恬骅：《图像媒介与颜色理论的历史生成：摄影术、水彩与数字图像》，《北京电影学院学报》2024年第9期，第14—25页 [[cnki]](https://kns.cnki.net/kcms2/article/abstract?v=IKKGlZ0AkeX7oKnLml5Fa2BJq6m171IyhTNSNTj5ycHmuF5sKNtjUBmQvat5ZGSWKZdq0CdrHv9OL_zrx3K5ImeHZoSvZECo8kR6hT1_5oTtwlTHCeJcIFcIgjvbsA75sDeG8sQoLoPYZ9V4U1g20hepckuxsCCTy_vsYP3IPzI=&uniplatform=NZKPT)
+1. 朱恬骅：《人工智能影像生成的模型诗学》，《电影艺术》2024年第5期，第28—34页 [[cnki]](https://kns.cnki.net/kcms2/article/abstract?v=IKKGlZ0AkeVGnLUmqmXVvZb8HR2kqNPbV8LI78z0sfG1qCIvfoMsPEO7Z33Mj1a_pJPjS9wNiehHimMLb7TpE1P3Qco8WnTr3bhXrvAYMHpagiSQ-rs8TKGcZEn7ForwCGFucvURkDqrsL19R5uGskIJM0y9b2g3hyE1ANQv4MA=&uniplatform=NZKPT)
+1. 朱恬骅：《言语行为、文学书写与装置编程：城市漫步的三种模式》，《中国图书评论》2024年第8期，第21—30页 [[cnki]](https://kns.cnki.net/kcms2/article/abstract?v=IKKGlZ0AkeUEwbTJPvfWXzLCeTA4D9-eQpFrKi3OKDIUr0HeEoCNXlXF8oMBdd0WjCRP8Yj0Brp1menOjd8h-624g7GE9s1G-2rBenl4shG_qdhl496ad0aqf17Sf2WuA3gm73gswx0g2CTgUfuz6Ziz7yMpZTZ63We9HQ7eHec=&uniplatform=NZKPT)
+1. 朱恬骅：《人工智能会创作吗？——“类文学文本”生成的创造力疑难与集体性方案》，《南京社会科学》2024年第7期，第113—121页 [[cnki]](https://kns.cnki.net/kcms2/article/abstract?v=IKKGlZ0AkeVZMzAzUDkRA1QzpxemujhwZSpc3HcFwQuPQkerlOUbLnNet6XnSMJTHSBHjosUHFx5_wLiT8jdqk5fqcZDAdfKds3PYKUL1jZwL485XMpuKi_cYNlyp1I2Yl4-l5Wo6RLm95oGgNcyvAa7qYwP8y9yr6k0Ico_vME=&uniplatform=NZKPT)
+1. 朱恬骅：《“另类”与“日常”：城市更新中的艺术空间》，《上海文化》2024年第4期，第81-88+101页 [[cnki]](https://kns.cnki.net/kcms2/article/abstract?v=IKKGlZ0AkeVj0uXwhXOkBvnY2yseRbvOjIFfpV_Uwsv1W1foX3wf-lLAOftC8SYAiIsMjkTnYV-BskO766SXoTmTlSvZwJwZCRPGcVdEeHzI2XzZpmaimXWkGehKwykVxaYfpXQPOXdHWpQVwOPWv9kSl_4L_rQGbqf9gNsTvB0=&uniplatform=NZKPT)
+1. 朱恬骅：《AIGC“何时为艺术”——从形态相似性到艺术条件》，《艺术学研究》2023年第3期，第76—88页 [[cnki]](https://kns.cnki.net/kcms2/article/abstract?v=IKKGlZ0AkeU36UMh-E_P0UQ6YoBI4qtj6mjpi-eg8zdpP0evVg-YnJe6GLi7ycT4cMHhWJtRrlencCKFo34PbR8iq5qwO4A-Yjbh7LuB9xighCmgYYwjMn4l8I7qpT5Nhc2KDNKEw9OCMjcl1aaBchnoP5XqnNdwVtcJyKn6YDk=&uniplatform=NZKPT)
+1. 朱恬骅：《“算法”提喻的话语陷阱》，《中国图书评论》No.383第1期，2023年，第10—17页 [[cnki]](https://kns.cnki.net/kcms2/article/abstract?v=IKKGlZ0AkeVFM28zJ_3p8rKJiJiXF7id-qmcb4z8PTD5t1OAjDq7KxSnwRMmIqr8p4RXmuG7aJ6F0teud-AdazaYb_H0dVPgI5tiO4Hy1wF6SoiQMP8uGfJgdk9h4r9Zg3QxrfZLb86LGzAwU7yKrQ1Uv7bAML3jsjHkLUXqRR4=&uniplatform=NZKPT)
+1. 朱恬骅：《走向隐喻的“元宇宙”：数字制品的价值兑现》，《中国图书评论》No.382第12期，2022年，第18—30页 [[cnki]](https://kns.cnki.net/kcms2/article/abstract?v=IKKGlZ0AkeUGXJjQtLarNbMlaG4yKePqSj4BRIOn3S1KmNlOU6mnI0E2PetXUmGM2RBqQFkvLVuR6HaI1CBXYvrioiiyt1AMwAfCBK-zDzFiWy8ntOkgum_CUc-MaCYPqE80Fw-2Xb7JPqASPqBcLLHNVjVA182UuQCl5dRnmGI=&uniplatform=NZKPT)
+1. Tianhua Zhu, “From Textual Experiments to Experimental Texts: Expressive Repetition in ‘Artificial Intelligence Literature,’” _SASS Studies_, no. 23 (Winter 2021), pp. 124-142. [[arxiv]](https://arxiv.org/abs/2201.02303)
+1. 朱恬骅：《NFT交易的兴起与数字艺术的价值依据》，《上海文化》2022年第8期，第89—94页 [[cnki]](https://kns.cnki.net/kcms2/article/abstract?v=IKKGlZ0AkeW_ruwZax6LwWiXMO5fZjZYfPo_9LS4LaudSaflNT5t6P2vIG5MbR0VtRvYKCzdSbvyqIM0ZPcz4Iynr4JcH471moH4Pvi6ykhSuV7E1Zl1j21AhxEzoUxqJavpd0QFNwmlJzErmwA0j8-CUhlfsDxI5ApMrBQPi9E=&uniplatform=NZKPT)
+1. 朱恬骅：《重审技术分析：计算机图像的意义生成与艺术潜能》，《艺术学研究》2022年第3期，第132—142页 [[cnki]](https://kns.cnki.net/kcms2/article/abstract?v=IKKGlZ0AkeVkVXiAMkTPVF3uYEU-JdPxHcLcjTVENNCOfLEIZLSzPrxZCf835WPgb6iJviicAY-UyWHuMVdapLsQqw7QznQSm__bXqSW4HF8yhjdLjXetTM8gffRc_WiwCZWWIStzOfOBv64Q_RgTYQbFT66yzztY8M4JnETn3I=&uniplatform=NZKPT)
 1. 朱恬骅：《从文本实验到实验文本：“人工智能文学”的表达性重复》，《社会科学文摘》No.73第1期，2022年，第112—114页
-1. 陈云霞、朱恬骅：《上海郊野景观中的江南文化系统——以〈上海乡村漫步〉和〈佘山小志〉为例》，《全球城市研究（中英文）》第2卷第3期，2021年，第149-159+193页
-1. 朱恬骅：《从文本实验到实验文本：“人工智能文学”的表达性重复》，《文艺理论研究》第41卷第5期，2021年9月，第131—140页
-1. 刘楠、朱恬骅、葛致远：《在线科普活动的参与水平与影响因素分析——基于新型冠状病毒科普知识有奖竞答的考察》，《教育传播与技术》2021年第3期，第77-82+88页
+1. 陈云霞、朱恬骅：《上海郊野景观中的江南文化系统——以〈上海乡村漫步〉和〈佘山小志〉为例》，《全球城市研究（中英文）》第2卷第3期，2021年，第149-159+193页 [[cnki]](https://kns.cnki.net/kcms2/article/abstract?v=IKKGlZ0AkeXvrRIaIOvKmsJkwAeNvIoKGt6Bgix89vQaIZVJp8_lhl0Ny_hTPwXO5JvjddLs4nQ6oJk-Ljb0JFVxGBYvIvnv71dyEEPh6VYey-KLVOfCRn9rht3AT3pv3wd5lahGbRdbnRouToOxmxNK7_iZi1LPedXzxzgtgfk=&uniplatform=NZKPT)
+1. 朱恬骅：《从文本实验到实验文本：“人工智能文学”的表达性重复》，《文艺理论研究》第41卷第5期，2021年9月，第131—140页 [[tsla]](https://tsla.ecnu.edu.cn/CN/Y2021/V41/I5/140)
+1. 刘楠、朱恬骅、葛致远：《在线科普活动的参与水平与影响因素分析——基于新型冠状病毒科普知识有奖竞答的考察》，《教育传播与技术》2021年第3期，第77-82+88页 [[cnki]](https://kns.cnki.net/kcms2/article/abstract?v=IKKGlZ0AkeV_SHP1ytRVgyM8UUmKk1zHmByXZsaidQzN73FbjUwz0pUM6zZmfjGduSRO9vZY5Pe8U5sQOwXpCsFUbrHZhFWk8-9D7Gjqz5Q40uWrYt5JCrHUDWBCTmKj15TIav1S6iUWVcnqpxN7_ZbPgLH7p-QHgKuRF8DlNNU=&uniplatform=NZKPT)
 1. 狄霞晨、朱恬骅：《严复与中国文学观念的现代转型》，《社会科学文摘》2021年第3期，第106—108页
-1. 朱恬骅：《技术主张的文化响应模式——以法、苏报刊中的控制论论争为中心（1950-1960）》，《自然辩证法研究》第37卷第4期，2021年4月，第61—66页
-1. 朱恬骅：《作为美学问题域的计算机艺术》，《上海文化》2020年第12期，第31—41页
-1. 狄霞晨、朱恬骅：《严复与中国文学观念的现代转型》，《复旦学报（社会科学版）》第63卷第1期，2021年1月，第26—36页
-1. Tianhua Zhu, “Defining Computer Art: Methods, Themes, and the Aesthetic Problematic,” _China in Culture_ (Canada), vol. 1, no. 4 (December 2020), pp. 149-159.
+1. 朱恬骅：《技术主张的文化响应模式——以法、苏报刊中的控制论论争为中心（1950-1960）》，《自然辩证法研究》第37卷第4期，2021年4月，第61—66页 [[cnki]](https://kns.cnki.net/kcms2/article/abstract?v=IKKGlZ0AkeXIMXa0TG2wIOef_kOlnTku_z8a1KmsWVgGBm6-1sjznVzU1FtwGk3kN1wf7iukeca2kW9Q0C5aR-tHYjfxvyHTSAJZwTANeIcdBCkPlt1eptsWnVGsYm9s54AemGEtFFTPKjGPnUbF08J1ZqF4ooaxDhMsqgTqdTM=&uniplatform=NZKPT)
+1. 朱恬骅：《作为美学问题域的计算机艺术》，《上海文化》2020年第12期，第31—41页 [[cnki]](https://kns.cnki.net/kcms2/article/abstract?v=IKKGlZ0AkeWYUko93NZmeKu0DecAbXG0Xwp4bdiJ5Iy3UAuUPyyuy4mqv_Ssxg9kdPl4YZoogStmq7X5Z936SvJqlxXCPBLXTixuW8FMRYYQnobPI7jLB_eOd4n09ZYuPLw33RdteXXmlZe8kDrLvZtFCcpX_RWZHiNFAW5IZFo=&uniplatform=NZKPT)
+1. 狄霞晨、朱恬骅：《严复与中国文学观念的现代转型》，《复旦学报（社会科学版）》第63卷第1期，2021年1月，第26—36页 [[cnki]](https://kns.cnki.net/kcms2/article/abstract?v=IKKGlZ0AkeWINF8GdDhVf7-xjdSn0BFl2DtyBQrPaGmYXEBg-H-iGYMaRE3x8y8vmEWCe3wCX99gzvHZNq7s067yFE8l8mNFHdTVIClEc6xf5C7IwlTaOUdOYd0DpYWEg8tWFMmbaL88QX6mX_iRpxL7ceBRC-FlE1wuPKp8ARQ=&uniplatform=NZKPT)
+1. Tianhua Zhu, “Defining Computer Art: Methods, Themes, and the Aesthetic Problematic,” _China in Culture_ (Canada), vol. 1, no. 4 (December 2020), pp. 149-159. [[arxiv]](https://arxiv.org/abs/2010.04929)
 1. 朱恬骅：《西蒙栋“技术美学”评析》，《自然辩证法研究》第34卷第5期，2018年，第37—42页
 1. 朱恬骅：《论九鬼周造基于偶然性的艺术观》，《理论界》2016年第10期，第98—103页
 1. 朱恬骅：《民俗学史视角下沈从文的创作与研究:1926-1949》，《文艺评论》2016年第10期，第1—8页
@@ -48,7 +48,7 @@ E-mail: thzhu15 \[at\] fudan.edu.cn
 
 ## 专著 Monograph
 
-1. 朱恬骅：《计算机艺术的形态发生》，上海：上海科学技术出版社，2024年
+1. 朱恬骅：《计算机艺术的形态发生》，上海：上海科学技术出版社，2024年。[[简介]](https://www.sstp.com.cn/hotbook/3518.html)
   - 郑元者：[序言](https://www.sohu.com/a/754401924_121856459)
   - [结论试读：计算机艺术的未来与未来艺术](https://wxs.sass.org.cn/2024/0718/c6913a572525/page.htm)
   - [《上海文化》2025年6月介绍](https://kns.cnki.net/kcms2/article/abstract?v=IKKGlZ0AkeV7tW8n3gffXU5XzXDE1ReLC-3lAfTtAn4HsuqsbTfjTJhc4JItgF5NDkDC7QmT2sWz7sM7qEieRzYCGx1dGu48MdqyO_KKMj1P9oTg_yI-rK5AJenXS1hA5eEzlSISr5LcZBLOvVgXMQBVBqCgARkP&uniplatform=NZKPT)
