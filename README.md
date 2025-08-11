@@ -40,11 +40,11 @@ E-mail: thzhu15 \[at\] fudan.edu.cn
 1. 朱恬骅：《作为美学问题域的计算机艺术》，《上海文化》2020年第12期，第31—41页 [[cnki]](https://kns.cnki.net/kcms2/article/abstract?v=IKKGlZ0AkeWYUko93NZmeKu0DecAbXG0Xwp4bdiJ5Iy3UAuUPyyuy4mqv_Ssxg9kdPl4YZoogStmq7X5Z936SvJqlxXCPBLXTixuW8FMRYYQnobPI7jLB_eOd4n09ZYuPLw33RdteXXmlZe8kDrLvZtFCcpX_RWZHiNFAW5IZFo=&uniplatform=NZKPT)
 1. 狄霞晨、朱恬骅：《严复与中国文学观念的现代转型》，《复旦学报（社会科学版）》第63卷第1期，2021年1月，第26—36页 [[cnki]](https://kns.cnki.net/kcms2/article/abstract?v=IKKGlZ0AkeWINF8GdDhVf7-xjdSn0BFl2DtyBQrPaGmYXEBg-H-iGYMaRE3x8y8vmEWCe3wCX99gzvHZNq7s067yFE8l8mNFHdTVIClEc6xf5C7IwlTaOUdOYd0DpYWEg8tWFMmbaL88QX6mX_iRpxL7ceBRC-FlE1wuPKp8ARQ=&uniplatform=NZKPT)
 1. Tianhua Zhu, “Defining Computer Art: Methods, Themes, and the Aesthetic Problematic,” _China in Culture_ (Canada), vol. 1, no. 4 (December 2020), pp. 149-159. [[arxiv]](https://arxiv.org/abs/2010.04929)
-1. 朱恬骅：《西蒙栋“技术美学”评析》，《自然辩证法研究》第34卷第5期，2018年，第37—42页
-1. 朱恬骅：《论九鬼周造基于偶然性的艺术观》，《理论界》2016年第10期，第98—103页
-1. 朱恬骅：《民俗学史视角下沈从文的创作与研究:1926-1949》，《文艺评论》2016年第10期，第1—8页
-1. 朱恬骅：《王韬《漫游随录》中域外城市的文本编码和图像表达》，《上海文化》2014年第10期，第56—63页
-1. 朱恬骅：《晚清科学小说中技术想象的来源与意义探析  以“电”和“化学”为例》，《科学文化评论》2014年第4 vo 11期，第63—76页
+1. 朱恬骅：《西蒙栋“技术美学”评析》，《自然辩证法研究》第34卷第5期，2018年，第37—42页 [[academia]](https://www.academia.edu/37083556/%E8%A5%BF%E8%92%99%E6%A0%8B_%E6%8A%80%E6%9C%AF%E7%BE%8E%E5%AD%A6_%E8%AF%84%E6%9E%90)
+1. 朱恬骅：《论九鬼周造基于偶然性的艺术观》，《理论界》2016年第10期，第98—103页 [[academia]](https://www.academia.edu/33371967/%E8%AE%BA%E4%B9%9D%E9%AC%BC%E5%91%A8%E9%80%A0%E5%9F%BA%E4%BA%8E%E5%81%B6%E7%84%B6%E6%80%A7%E7%9A%84%E8%89%BA%E6%9C%AF%E8%A7%82)
+1. 朱恬骅：《民俗学史视角下沈从文的创作与研究:1926-1949》，《文艺评论》2016年第10期，第1—8页 [[academia]](https://www.academia.edu/37083551/%E6%B0%91%E4%BF%97%E5%AD%A6%E5%8F%B2%E8%A7%86%E8%A7%92%E4%B8%8B%E6%B2%88%E4%BB%8E%E6%96%87%E7%9A%84%E5%88%9B%E4%BD%9C%E4%B8%8E%E7%A0%94%E7%A9%B6_1926_1949)
+1. 朱恬骅：《王韬《漫游随录》中域外城市的文本编码和图像表达》，《上海文化》2014年第10期，第56—63页 [[academia]](https://www.academia.edu/33371953/%E7%8E%8B%E9%9F%AC_%E6%BC%AB%E6%B8%B8%E9%9A%8F%E5%BD%95_%E4%B8%AD%E5%9F%9F%E5%A4%96%E5%9F%8E%E5%B8%82%E7%9A%84%E6%96%87%E6%9C%AC%E7%BC%96%E7%A0%81%E5%92%8C%E5%9B%BE%E5%83%8F%E8%A1%A8%E8%BE%BE)
+1. 朱恬骅：《晚清科学小说中技术想象的来源与意义探析——以“电”和“化学”为例》，《科学文化评论》2014年第11卷第4期，第63—76页 [[academia]](https://www.academia.edu/9291783/%E6%99%9A%E6%B8%85%E7%A7%91%E5%AD%A6%E5%B0%8F%E8%AF%B4%E4%B8%AD%E6%8A%80%E6%9C%AF%E6%83%B3%E8%B1%A1%E7%9A%84%E6%9D%A5%E6%BA%90%E4%B8%8E%E6%84%8F%E4%B9%89%E6%8E%A2%E6%9E%90_%E4%BB%A5_%E7%94%B5_%E5%92%8C_%E5%8C%96%E5%AD%A6_%E4%B8%BA%E4%BE%8B) [[chinasf]](https://www.chinasf.com/main/documentdetail.php?DocumentID=9313)
 
 ## 专著 Monograph
 
