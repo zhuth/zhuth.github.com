@@ -49,18 +49,18 @@ E-mail: thzhu15 \[at\] fudan.edu.cn
 ## 专著 Monograph
 
 1. 朱恬骅：《计算机艺术的形态发生》，上海：上海科学技术出版社，2024年。[[简介]](https://www.sstp.com.cn/hotbook/3518.html)
-  - 郑元者：[序言](https://www.sohu.com/a/754401924_121856459)
-  - 结论试读：[计算机艺术的未来与未来艺术](https://wxs.sass.org.cn/2024/0718/c6913a572525/page.htm)
-  - [《上海文化》2025年6月新书推荐](https://kns.cnki.net/kcms2/article/abstract?v=IKKGlZ0AkeV7tW8n3gffXU5XzXDE1ReLC-3lAfTtAn4HsuqsbTfjTJhc4JItgF5NDkDC7QmT2sWz7sM7qEieRzYCGx1dGu48MdqyO_KKMj1P9oTg_yI-rK5AJenXS1hA5eEzlSISr5LcZBLOvVgXMQBVBqCgARkP&uniplatform=NZKPT)
-  - 陈霖：[数字艺术跨媒介实践的三重辩证逻辑及其潜能](https://kns.cnki.net/kcms2/article/abstract?v=IKKGlZ0AkeWhEc3hrU5nwEPsucixYRjdSqtLuk2BHeBZQBWxxlrNJ3j_cF0pkKZeXR1YX4GpE6suVxw1oPWVP96imjY5pyNZeM9BfK1yrpF3qU1lWPrcsPppSmG9ovyNZRu9eyfKACSF7VWMLLAW97wWakeZWYOMTNF97BbZQwo=&uniplatform=NZKPT)
+    - 郑元者：[序言](https://www.sohu.com/a/754401924_121856459)
+    - 结论试读：[计算机艺术的未来与未来艺术](https://wxs.sass.org.cn/2024/0718/c6913a572525/page.htm)
+    - [《上海文化》2025年6月新书推荐](https://kns.cnki.net/kcms2/article/abstract?v=IKKGlZ0AkeV7tW8n3gffXU5XzXDE1ReLC-3lAfTtAn4HsuqsbTfjTJhc4JItgF5NDkDC7QmT2sWz7sM7qEieRzYCGx1dGu48MdqyO_KKMj1P9oTg_yI-rK5AJenXS1hA5eEzlSISr5LcZBLOvVgXMQBVBqCgARkP&uniplatform=NZKPT)
+    - 陈霖：[数字艺术跨媒介实践的三重辩证逻辑及其潜能](https://kns.cnki.net/kcms2/article/abstract?v=IKKGlZ0AkeWhEc3hrU5nwEPsucixYRjdSqtLuk2BHeBZQBWxxlrNJ3j_cF0pkKZeXR1YX4GpE6suVxw1oPWVP96imjY5pyNZeM9BfK1yrpF3qU1lWPrcsPppSmG9ovyNZRu9eyfKACSF7VWMLLAW97wWakeZWYOMTNF97BbZQwo=&uniplatform=NZKPT)
 
 ## 译著 Translated Work
 
 1. \[巴西\] 威廉·弗卢塞尔：《书写还有未来吗？》，朱恬骅译，上海：东方出版中心，2024年
 (Vilém Flusser, _Die Schrift: Hat Schreiben Zukunft?_, Göttingen: European Photography, 2002.)
-  - 秦兰珺：[为书写，写一篇“深情”却不“长情”的悼文——读《书写还有未来吗?》](https://kns.cnki.net/kcms2/article/abstract?v=IKKGlZ0AkeUnHk-FtfOvGsnR4xkIudz1KhuXK3NlSBpoElIYsTsqolcBxSjn_h7xBxb4XW_s6gj921t_C3yHVAsTZ7BFop0qsWydK-j5mqUEa30gDrvMnCRue64I72wO_1DWC7b0NjHrtdi2Fa0SNEqRRXGubE7OnW7HMNWpivw=&uniplatform=NZKPT)
-  - 车致新：[书写的历史与未来](https://kns.cnki.net/kcms2/article/abstract?v=IKKGlZ0AkeXcUSHdtQ2BlOxWJ_D_A6hWT8c5GjpoRyMtDAEd0MssnWVhap6m11gazgY2qIcDLX5KNARoZaQ01ZB3pfYcPvcZVKmT608-y_VPRIZQLxQGxl8_5BLmzCdL7pDeacMaw7Q80C9-7EZ2d_wFVXpL2D8vr2Ttryxe82Y=&uniplatform=NZKPT)
-  - 于成：[游玩与阅读的耦合——电子游戏重新定义阅读](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2025&filename=SZCB202501011)
+    - 秦兰珺：[为书写，写一篇“深情”却不“长情”的悼文——读《书写还有未来吗?》](https://kns.cnki.net/kcms2/article/abstract?v=IKKGlZ0AkeUnHk-FtfOvGsnR4xkIudz1KhuXK3NlSBpoElIYsTsqolcBxSjn_h7xBxb4XW_s6gj921t_C3yHVAsTZ7BFop0qsWydK-j5mqUEa30gDrvMnCRue64I72wO_1DWC7b0NjHrtdi2Fa0SNEqRRXGubE7OnW7HMNWpivw=&uniplatform=NZKPT)
+    - 车致新：[书写的历史与未来](https://kns.cnki.net/kcms2/article/abstract?v=IKKGlZ0AkeXcUSHdtQ2BlOxWJ_D_A6hWT8c5GjpoRyMtDAEd0MssnWVhap6m11gazgY2qIcDLX5KNARoZaQ01ZB3pfYcPvcZVKmT608-y_VPRIZQLxQGxl8_5BLmzCdL7pDeacMaw7Q80C9-7EZ2d_wFVXpL2D8vr2Ttryxe82Y=&uniplatform=NZKPT)
+    - 于成：[游玩与阅读的耦合——电子游戏重新定义阅读](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2025&filename=SZCB202501011)
 
 ## 媒体文章 Media Articles
 
