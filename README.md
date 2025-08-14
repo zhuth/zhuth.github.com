@@ -13,6 +13,7 @@ E-mail: thzhu15 \[at\] fudan.edu.cn
 - 科学技术哲学 Philosophy of Science and Technology
 
 主要聚焦计算机技术与文学艺术的交叉领域，探究新技术如何成为艺术表达的手段，并对艺术形式产生新的影响。近期的研究重点为人工智能文艺，认为人工智能模型本身可以成为一种潜在的艺术表达形式，并以技术设计者、使用者同相关作品的创作者之间建立合作关系为前提。在梳理把握计算机艺术的历史实践和当代发展的基础上，对计算机艺术的主题式界定，论述了这种“计算机艺术”的基本属性、物质基础和观念渊源，为进一步探究其中突显的文艺美学基本问题提供了概念工具。
+Mainly focusing on the intersection of computer technology and literature and art, I am interested in exploring how new technologies can become means of art and giving birth to new forms of art. My recent research focus is on AI literature and art, believing that the AI model itself can become a potential form of artistic expression, provided that a cooperative ethics is established among technology designers, users, and creators of related works. Based on sorting out and grasping the historical practice and contemporary development of computer art, I defined computer art thematically, expounds on the basic attributes, material basis, and ideological origins, and provides conceptual tools for advancing the aesthetic problematics therein.
 
 ## 发表论文 Publications
 
