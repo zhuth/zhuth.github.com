@@ -16,6 +16,7 @@ E-mail: thzhu15 \[at\] fudan.edu.cn
 
 ## 发表论文 Publications
 
+1. 黄劲草、朱恬骅：《论实验动画的乌托邦功能：一个人类学视角》，《中华艺术论丛》第30辑，上海大学出版社，2025年 [[dangdang]](https://search.dangdang.com/?key=%D6%D0%BB%AA%D2%D5%CA%F5%C2%DB%B4%D430&act=input)
 1. 朱恬骅：《从可解释性悖论到计算性诗学：人工智能文本生成的解释策略》，《求索》2025年第3期，第96—104页 [[cnki]](https://kns.cnki.net/kcms2/article/abstract?v=IKKGlZ0AkeVgSoc-bMF6432LTP_553E-yF2TjL7ujDn43rHhvWuieYrf1yljwlskSs2eUnH3AE3oUnrytCbA7iUWxVcfcSTCg_bkShkDZ_MgQ9uHS4Q3J_DBVVymn5MUV6U0s8p6Iawpwm5yH6KK8UQjiMGKhhFq&uniplatform=NZKPT)
 1. 黄劲草、朱恬骅：《培育“人工智能观”：教学实践与有效性依据》，《数字人文》2025年第1期，第35—51页
 1. 朱恬骅：《制造诗歌机器：文本生成的诗学》，《文艺论坛》2024年第6期，第67—74页 [[cnki]](https://link.cnki.net/doi/10.14039/j.cnki.cn43-1515/i.2024.06.008)
