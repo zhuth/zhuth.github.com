@@ -1,4 +1,4 @@
-朱恬骅 Tianhua Zhu
+<img width="432" height="27" alt="image" src="https://github.com/user-attachments/assets/fb33e3ff-5145-40a6-bbab-2e9d56fbaf77" /><img width="432" height="70" alt="image" src="https://github.com/user-attachments/assets/433b01ce-f0a9-41f5-9b02-69e45c20cc8d" />朱恬骅 Tianhua Zhu
 ==================
 
 <img src="profile.jpg" width="200px" height="auto" />
@@ -17,6 +17,7 @@ Mainly focusing on the intersection of computer technology and literature and ar
 
 ## 发表论文 Publications
 
+1. 朱恬骅：《上海游戏，从产业多元化走向学术新空间》，《上海艺术评论》，2025年第4期，第58-60页。[[wechat]](https://mp.weixin.qq.com/s/Yii6bzCpZlAiVssCLHnJWg)
 1. 黄劲草、朱恬骅：《论实验动画的乌托邦功能：一个人类学视角》，《中华艺术论丛》第30辑，上海大学出版社，2025年 [[dangdang]](https://search.dangdang.com/?key=%D6%D0%BB%AA%D2%D5%CA%F5%C2%DB%B4%D430&act=input)
 1. 朱恬骅：《从可解释性悖论到计算性诗学：人工智能文本生成的解释策略》，《求索》2025年第3期，第96—104页 [[cnki]](https://kns.cnki.net/kcms2/article/abstract?v=IKKGlZ0AkeVgSoc-bMF6432LTP_553E-yF2TjL7ujDn43rHhvWuieYrf1yljwlskSs2eUnH3AE3oUnrytCbA7iUWxVcfcSTCg_bkShkDZ_MgQ9uHS4Q3J_DBVVymn5MUV6U0s8p6Iawpwm5yH6KK8UQjiMGKhhFq&uniplatform=NZKPT)
 1. 黄劲草、朱恬骅：《培育“人工智能观”：教学实践与有效性依据》，《数字人文》2025年第1期，第35—51页
@@ -67,6 +68,7 @@ Mainly focusing on the intersection of computer technology and literature and ar
 
 ## 媒体文章 Media Articles
 
+1. 《热爱编程，仍可热爱写作》，《文汇报》，2025年9月28日
 1. 《新兴地标演绎城市文化新篇》，《解放日报》，2025年8月7日
 1. 《文化“新三样”出海，应坚持作品导向》，《解放日报》，2025年6月12日
 1. 《微短剧需在“短”中寻突破，在“快”后回味深刻》，《解放日报》，2025年4月3日
@@ -128,6 +130,12 @@ Mainly focusing on the intersection of computer technology and literature and ar
 
 ## 会议及讲座 Conference & Lectures
 
+1.	“艺术新质生产力：创新驱动与范式变革”，上海戏剧学院，2025.12.6。
+1.	第116期青年文艺论坛“何以拼贴”，中国艺术研究院马文所，2025.12.1。
+1.	“文学计算批评的未来：数字人文青年实干家论坛”，中国社科院文学所，2025.11.22。
+1.	“艺术人类学与文学研究的未来”，安徽师范大学，2025.11.1-2。
+1.	“艺术与科技”第六届艺术学论坛，东南大学、《文艺研究》编辑部，2025.10.18。
+1.	中国比较文学学会跨学科研究分会2025年年度会议，中山大学外国语学院，2025.9.6-7。
 1.  “东方读书会‘当机器开始书写：生成式 AI 与人类表达的未来’”，上海图书馆、东方出版中心，2025年7月26日
 2.  “‘以物为要’：媒介流变中的诗意书写” 青年学者工作坊，浙江大学中文系，2025年6月24日
 3.  “数智时代的人文数据库建设与可视分析” 研讨会，同济大学人文学院，2025年6月14日
