@@ -130,6 +130,7 @@ Mainly focusing on the intersection of computer technology and literature and ar
 
 ## 会议及讲座 Conference & Lectures
 
+1. “古代文学批评的知识论研究”工作坊，复旦大学中文系，2026.3.7。
 1.	“艺术新质生产力：创新驱动与范式变革”，上海戏剧学院，2025.12.6。
 1.	第116期青年文艺论坛“何以拼贴”，中国艺术研究院马文所，2025.12.1。
 1.	“文学计算批评的未来：数字人文青年实干家论坛”，中国社科院文学所，2025.11.22。
