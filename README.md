@@ -16,7 +16,9 @@ Mainly focusing on the intersection of computer technology and literature and ar
 
 ## 发表论文 Publications
 
+1. 朱恬骅：《艺术“实验”作为概念的物质性演绎——以早期计算机艺术的历史情境为中心》，《上海文化》，2026年第4期，第96-105页。
 1. 朱恬骅：《数字人文工具的情境知识与技术经验的情境还原——计算批评的另一种可能》，《河北师范大学学报（哲学社会科学版）》，2026年第1期，第57-63页。[[wechat]](https://mp.weixin.qq.com/s/zqe6KrWs0P2l32Eksu3Z6A)
+1. 朱恬骅：《早期计算机艺术的经济依附策略》，《艺术学研究进展》，2025年第4期，第437-449页。[[publisher]](http://www.scifootprint.com/Contribution/download.aspx?filetype=PeriodicalDirectoryFile&muLuId=c0bdbe9f-b22b-4d5c-b8d9-a1dbb15dc8f6)
 1. 朱恬骅：《上海游戏，从产业多元化走向学术新空间》，《上海艺术评论》，2025年第4期，第58-60页。[[wechat]](https://mp.weixin.qq.com/s/Yii6bzCpZlAiVssCLHnJWg)
 1. 黄劲草、朱恬骅：《论实验动画的乌托邦功能：一个人类学视角》，《中华艺术论丛》第30辑，上海大学出版社，2025年 [[dangdang]](https://search.dangdang.com/?key=%D6%D0%BB%AA%D2%D5%CA%F5%C2%DB%B4%D430&act=input)
 1. 朱恬骅：《从可解释性悖论到计算性诗学：人工智能文本生成的解释策略》，《求索》2025年第3期，第96—104页 [[cnki]](https://kns.cnki.net/kcms2/article/abstract?v=IKKGlZ0AkeVgSoc-bMF6432LTP_553E-yF2TjL7ujDn43rHhvWuieYrf1yljwlskSs2eUnH3AE3oUnrytCbA7iUWxVcfcSTCg_bkShkDZ_MgQ9uHS4Q3J_DBVVymn5MUV6U0s8p6Iawpwm5yH6KK8UQjiMGKhhFq&uniplatform=NZKPT)
