@@ -5,7 +5,18 @@
 
 E-mail: thzhu15 \[at\] fudan.edu.cn
 
-## 研究方向 Resarch Interests
+- [研究方向](#interests)
+- [核心观点](#insights)
+- [学术著作](#monograph)
+- [期刊论文](#pub)
+- [媒体评论](#media)
+- [会议讲座](#conf)
+- [教育背景](#education)
+- [学术服务](#service)
+- [承担项目](#grants)
+
+
+## <a id="interests"></a>研究方向 Resarch Interests
 
 - 计算机艺术与美学 Computer Art & Aesthetics
 - 科学技术哲学 Philosophy of Science and Technology
@@ -14,7 +25,26 @@ E-mail: thzhu15 \[at\] fudan.edu.cn
 
 Mainly focusing on the intersection of computer technology and literature and art, I am interested in exploring how new technologies can become means of art and giving birth to new forms of art. My recent research focus is on AI literature and art, believing that the AI model itself can become a potential form of artistic expression, provided that a cooperative ethics is established among technology designers, users, and creators of related works. Based on sorting out and grasping the historical practice and contemporary development of computer art, I defined computer art thematically, expounds on the basic attributes, material basis, and ideological origins, and provides conceptual tools for advancing the aesthetic problematics therein.
 
-## 发表论文 Publications
+## <a id="insights"></a>核心观点 Core Insights
+
+研究主要聚焦于计算机技术介入艺术与文学后引发的美学与诗学问题，致力于在技术决定论与图像阐释之间开辟一条兼顾物质性与意义维度的理论路径。尤其关注人工智能生成内容（AIGC）的历史渊源、解释策略与价值依据。
+
+提出“计算性诗学”的解释策略，以施行性为导向，将技术操作的经验纳入对文本生成的分析，通过“部件解释”与“接合表述”，揭示AI模型本身作为审美思想的载体。
+
+针对当前以“形态相似性”为标准的价值判断，主张回到“艺术条件”的情境性分析，强调个体与群体反身性沟通的结构特征，以此重审“何时为艺术”这一根本命题。
+
+此外，围绕数字艺术制品、城市漫步、技术图像等议题，从媒介哲学与文化响应的角度，辨析社会交往价值与经济价值的优先关系，以及技术主张在不同文化语境中的接受模式。
+
+The research primarily focuses on the aesthetic and poetic issues arising from the intervention of computer technology in art and literature, aiming to forge a theoretical path between technological determinism and image interpretation that accommodates both materiality and the dimension of meaning. Special attention is given to the historical origins, interpretive strategies, and grounds of value of Artificial Intelligence Generated Content (AIGC).
+
+The interpretive strategy of "computational poetics" is proposed, which, oriented toward performativity, incorporates the experience of technical operations into the analysis of text generation. Through "parts explanation" and "articulation," it reveals how AI models themselves serve as vehicles of aesthetic thought.
+
+In response to the current value judgment based on "morphological similarity," it advocates a return to the situational analysis of "art condition," emphasizing the structural features of individual and collective reflexive communication, thereby reexamining the fundamental question of "when art is art."
+
+Furthermore, on topics such as digital artefacts, urban walking, and technical images, it analyzes, from the perspectives of media philosophy and cultural response, the priority relationship between social-communicative value and economic value, as well as the modes of reception of technical claims in different cultural contexts.
+
+
+## <a id="pub"></a>发表论文 Publications
 
 1. 朱恬骅：《艺术“实验”作为概念的物质性演绎——以早期计算机艺术的历史情境为中心》，《上海文化》，2026年第4期，第96-105页 [[preprint]]()
 1. 朱恬骅：《数字人文工具的情境知识与技术经验的情境还原——计算批评的另一种可能》，《河北师范大学学报（哲学社会科学版）》，2026年第1期，第57-63页 [[wechat]](https://mp.weixin.qq.com/s/zqe6KrWs0P2l32Eksu3Z6A) [[pdf]](assets/ContextualKnowledgeOfDHT_2026.pdf)
@@ -52,7 +82,7 @@ Mainly focusing on the intersection of computer technology and literature and ar
 1. 朱恬骅：《王韬《漫游随录》中域外城市的文本编码和图像表达》，《上海文化》2014年第10期，第56—63页 [[academia]](https://www.academia.edu/33371953/%E7%8E%8B%E9%9F%AC_%E6%BC%AB%E6%B8%B8%E9%9A%8F%E5%BD%95_%E4%B8%AD%E5%9F%9F%E5%A4%96%E5%9F%8E%E5%B8%82%E7%9A%84%E6%96%87%E6%9C%AC%E7%BC%96%E7%A0%81%E5%92%8C%E5%9B%BE%E5%83%8F%E8%A1%A8%E8%BE%BE)
 1. 朱恬骅：《晚清科学小说中技术想象的来源与意义探析——以“电”和“化学”为例》，《科学文化评论》2014年第11卷第4期，第63—76页 [[academia]](https://www.academia.edu/9291783/%E6%99%9A%E6%B8%85%E7%A7%91%E5%AD%A6%E5%B0%8F%E8%AF%B4%E4%B8%AD%E6%8A%80%E6%9C%AF%E6%83%B3%E8%B1%A1%E7%9A%84%E6%9D%A5%E6%BA%90%E4%B8%8E%E6%84%8F%E4%B9%89%E6%8E%A2%E6%9E%90_%E4%BB%A5_%E7%94%B5_%E5%92%8C_%E5%8C%96%E5%AD%A6_%E4%B8%BA%E4%BE%8B) [[chinasf]](https://www.chinasf.com/main/documentdetail.php?DocumentID=9313)
 
-## 专著 Monograph
+## <a id="monograph"></a>专著 Monograph
 
 1. 朱恬骅：《计算机艺术的形态发生》，上海：上海科学技术出版社，2024年。[[简介]](https://www.sstp.com.cn/hotbook/3518.html)
     - 郑元者：[序言](https://www.sohu.com/a/754401924_121856459)
@@ -68,7 +98,10 @@ Mainly focusing on the intersection of computer technology and literature and ar
     - 车致新：[书写的历史与未来](https://kns.cnki.net/kcms2/article/abstract?v=IKKGlZ0AkeXcUSHdtQ2BlOxWJ_D_A6hWT8c5GjpoRyMtDAEd0MssnWVhap6m11gazgY2qIcDLX5KNARoZaQ01ZB3pfYcPvcZVKmT608-y_VPRIZQLxQGxl8_5BLmzCdL7pDeacMaw7Q80C9-7EZ2d_wFVXpL2D8vr2Ttryxe82Y=&uniplatform=NZKPT)
     - 于成：[游玩与阅读的耦合——电子游戏重新定义阅读](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2025&filename=SZCB202501011)
 
-## 媒体文章 Media Articles
+## <a id="media"></a>媒体评论 Media Comments
+
+<details>
+<summary>2025</summary>
 
 1. 《热爱编程，仍可热爱写作》，《文汇报》，2025年9月28日
 1. 《新兴地标演绎城市文化新篇》，《解放日报》，2025年8月7日
@@ -76,6 +109,11 @@ Mainly focusing on the intersection of computer technology and literature and ar
 1. 《微短剧需在“短”中寻突破，在“快”后回味深刻》，《解放日报》，2025年4月3日
 1. 《AI艺术面对的仅仅是版权困境吗》，《解放日报》，2025年3月6日
 1. 《节日光影璀璨，成为我们表达生命体验的一部分》，上观新闻，2025年2月5日
+
+</details>
+<details>
+<summary>2024</summary>
+
 1.	《从算法到模型：走出“技术中立”的话语误区》，《光明日报》，2024年12月7日
 2.	《声景营造，巧夺天工》，《解放日报》（文史版），2024年10月29日
 3.	《机器写诗只是人工智能写作的过渡阶段》，《光明日报》，2024年9月28日
@@ -87,6 +125,11 @@ Mainly focusing on the intersection of computer technology and literature and ar
 9.	《发挥生成式人工智能集群优势，提升数字文化产业竞争力》，《上海宣传通讯》，2024年第8期
 10.	《脱胎于“数字文化”的文化正呼之欲出》，《解放日报》，2024年2月8日
 11.	《“城市漫步”何以兴盛与持续》，《解放日报》（文史版），第一作者， 2024年1月16日
+
+</details>
+<details>
+<summary>2023</summary>
+
 12.	《文化消费的场景供应正在移步换“径”》，《解放日报》，第一作者，2023年11月30日
 13.	《沉浸式艺术的关键，在于做一个选择》，《解放日报》，2023年10月26日
 14.	《老字号遇见游戏IP，从商业共赢走向情感共鸣》，《解放日报》，2023年9月14日
@@ -98,6 +141,11 @@ Mainly focusing on the intersection of computer technology and literature and ar
 20.	《电子游戏何以成为艺术》，《解放日报》，2023年3月2日
 21.	《当AI学会思考，人类还有什么优势？》，澎湃新闻（采访），2023年2月22日
 22.	《揭开AIGC的黑箱，提高艺术创作的基准》，澎湃新闻，2023年2月11日
+
+</details>
+<details>
+<summary>2022</summary>
+
 23.	《“过智能化”的生活，需要破解技术的神话》，澎湃新闻，2022年12月23日
 24.	《如何保障人们在信息海洋中不至于迷失？钱学森提出了一个构想》，上观新闻，2022年12月14日
 25.	《“一定是人类历史中的大事”》，《解放日报》（文史版），2022年12月13日
@@ -111,6 +159,11 @@ Mainly focusing on the intersection of computer technology and literature and ar
 33.	《上海棉花往事，未完待续》，澎湃新闻， 2022年2月26日
 34.	《上海市花白玉兰：历经改造，由庭院走向公共空间》，澎湃新闻，2022年2月21日
 35.	《道别五金街：当我们讲述街区故事时，我们在讲述什么》，澎湃新闻，2022年1月5日
+
+</details>
+<details>
+<summary>2021</summary>
+
 36.	《元宇宙，未来还是已来？》，澎湃新闻，2021年12月24日
 1. “A Shanghai Wet Market Has Fruits, Vegetables — and Prada Bags”, _Sixth Tone_, 9 Oct. 2021.
 37.	《NFT艺术交易的碳排放，是一种必要的浪费吗》，澎湃新闻，2021年10月6日
@@ -123,6 +176,11 @@ Mainly focusing on the intersection of computer technology and literature and ar
 44.	《人与动物，诗意地共居》，澎湃新闻，2021年3月4日
 45.	《部落聚会与人工智能写诗》，澎湃新闻，2021年2月5日
 46.	《虚拟城市、网络空间与文学》，澎湃新闻，2021年2月4日
+
+</details>
+<details>
+<summary>2019</summary>
+
 47.	《构建有温度的滨江空间要善打“文化牌”》，《文汇报》，2019年5月8日
 48.	《谁为“自媒体”赋能？》，《文汇报》（文汇学人），2019年12月27日
 49.	《从下海庙探寻城市空间的历史》，澎湃新闻，2019年5月18日
@@ -130,60 +188,92 @@ Mainly focusing on the intersection of computer technology and literature and ar
 51.	《“活的景观”：滨江空间与日常生活》，澎湃新闻，2019年1月31日
 52.	《寻找北京东路的意义》，澎湃新闻，2019年1月29日
 
-## 会议及讲座 Conference & Lectures
+</details>
+
+## <a id="conf"></a>会议及讲座 Conference & Lectures
+
+<details>
+<summary>2026</summary>
 
 1. 人工智能生产内容中的美学问题学术研讨会，华东师范大学传播学院、中文系，2026年4月17日
-2. “古代文学批评的知识论研究”工作坊，复旦大学中文系，2026年3月7日
-3. “艺术新质生产力：创新驱动与范式变革”，上海戏剧学院，2025年12月6日
-4. 第116期青年文艺论坛“何以拼贴”，中国艺术研究院马文所，2025年12月1日
-5. “文学计算批评的未来：数字人文青年实干家论坛”，中国社科院文学所，2025年11月22日
-6. “艺术人类学与文学研究的未来”，安徽师范大学，2025年11月1-2日
-7. “艺术与科技”第六届艺术学论坛，东南大学、《文艺研究》编辑部，2025年10月18日
-8. 中国比较文学学会跨学科研究分会2025年年度会议，中山大学外国语学院，2025年9月6-7日
-9. “东方读书会‘当机器开始书写：生成式 AI 与人类表达的未来’”，上海图书馆、东方出版中心，2025年7月26日
-2.  “‘以物为要’：媒介流变中的诗意书写” 青年学者工作坊，浙江大学中文系，2025年6月24日
-3.  “数智时代的人文数据库建设与可视分析” 研讨会，同济大学人文学院，2025年6月14日
-4.  “AI 的助力与反思：技术在文学研究中的应用、机遇与挑战” 论坛，复旦大学中文系，2025年5月25日
-5.  “数字人文方法的观念历史与实践反思” 讲座，同济大学人文学院，2025年5月8日
-6.  “‘文学机器’再审视” 讲座，上海外国语大学新闻传播学院，2025年4月10日
-7.  “站在黑洞边上：《如何思考全球数字资本主义》共读会” 讲座，徐家汇街道，2025年4月8日
-8.  第六届媒介物质性论坛，清华大学新闻与传播学院，2025年3月29-30日
-9.  “文化自信与二次元创新：虹口区二次元文化产业高质量发展” 研讨会，上海社会科学院文学研究所、虹口区文旅局，2024年12月28日
-10. 多伦城市论坛 “人工智能与城市多余人” 研讨会，同济大学人文学院等，2024年11月30日
-11. 《游戏研究》辑刊第一次编委会议，华东师大传播学院，2024年11月20日
-12. “文艺的人民性与上海城市文化建设” 理论研讨会，杨浦区委党史研究室，2024年11月19日
-13. “法国理论的新介入：2024年同济大学法国理论会议” 研讨会，同济大学人文学院，2024年11月9日
-14. 会议论文摘要被第六届中国数字人文年会接收，上海大学，2024年11月8-10日
-15. “跨学科下的跨文化交际新形态” 学术研讨会，上海外国语大学，2024年11月1日
-16. “人工智能赋能文艺创作” 专题研讨会，华东师大传播学院等，2024年10月27日
-17. “生成与创作” 学术工作坊，上海大学文学院，2024年10月26日
-18. 艺术学理论前沿论坛第16期 “人工智能对艺术的影响” 研讨会，中国艺术研究院艺术学研究所，2024年10月23日
-19. 会议论文被中国文艺理论学会数字人文分会第二届年会接收，杭州师范大学，2024年10月18-20日
-20. 陆家嘴读书会 “玩电子游戏能获得哲学智慧吗” 对谈，浦东新区宣传部（文体旅游局），2024年10月18日
-21. 文学与文化系列学术讲座 “颜色理论历史生成中的图像媒介——摄影术、水彩与数字图像”，上海社会科学院文学研究所，2024年10月15日
-22. 首届全国研究生游戏论坛暨 “电子游戏的现实与潜能” 学术研讨会（受邀专家圆桌），华东师范大学传播（出版）学院、研究生院，2024年8月18日
-23. 诗、技术与媒介：重访恩岑斯贝格，中国社科院文学所马文室，2024年7月26日
-24. 作为日常生活方式的电子游戏，上海社会科学院文学研究所，2024年7月20日
-25. 参与完成的论文 “Spatial Distribution and Functional Configuration of Industry4.0Enterprises: A Case Study of Germany” 获欧洲城市规划学院联合会 AESOP2024年会接受，2024年7月
-26. 中国文学与比较文学学会（ACCL）2024年双年会议，香港科技大学，2024年6月25日
-27. AI 时代的文艺原理之 “何为写作”，中国艺术研究院马文所、清华大学写作中心，2024年5月19日
-28. “人工智能的推想与亲证” 讲座，上海科技大学人文学院，2024年4月27日
-29. “谁的 City，如何 Walk”，上海社会科学院文学研究所，2024年4月7日
-30. 第二届上海社科青年望道论坛圆桌研讨会，复旦大学新闻学院，2023年12月26日
-31. 第一届机器人人文学术研讨会，广东外语外贸大学外文研究院，2023年12月3日
-32. “中国电子游戏的文化生产与媒介传播” 圆桌会议，上海社会科学院文学研究所，2023年11月21日
-33. “审美及其限度” 青年学术研究工作坊，上海大学文学院，2023年10月28日
-34. “新媒体・新话语：文艺理论的知识体系重构”，中国文艺理论学会、上海大学文学院，2023年8月19-20日
-35. “艺术人类学视域下的民族民间文学研究”，中国人类学学会艺术人类学研究会、广西民族大学文学院，2023年6月16-18日
-36. “日常生活的诗学话语青年学者工作坊”，同济大学人文学院，2023年6月11日
-37. “AI 时代，文艺评论的温度”，《解放日报》文艺部、上海文艺评论基金会，2023年4月19日
-38. “‘机’智过人？——ChatGPT 浪潮下的人类文明新图景高端论坛”，上海社科院文学所、《探索与争鸣》杂志社，2023年2月19日
-39. 清华大学人文学院研究生分会青年学衡沙龙第28期 “锚定 NFT 艺术的价值”，与谈点评，2022年7月8日
-40. 文学所水花雅集第8期 “元宇宙：理论想象与实践空间”，会议组织和发言，2022年5月28日
-41. 《游戏作为界面：技术图像的视角》,“拒绝在 / 再玩：游戏的精神生态学” 工作坊，华东师范大学哲学系和同济大学艺术与传媒学院，2021年11月14日
-42. 北京电影学院第六届艺术学论坛，2021年11月6-7日
-43. “战后法国思想与当代艺术理论的变动” 研讨会，复旦大学艺术哲学系，2021年11月5-6日
+1. “古代文学批评的知识论研究”工作坊，复旦大学中文系，2026年3月7日
 
+</details>
+<details>
+<summary>2025</summary>
+
+1. “艺术新质生产力：创新驱动与范式变革”，上海戏剧学院，2025年12月6日
+1. 第116期青年文艺论坛“何以拼贴”，中国艺术研究院马文所，2025年12月1日
+1. “文学计算批评的未来：数字人文青年实干家论坛”，中国社科院文学所，2025年11月22日
+1. “艺术人类学与文学研究的未来”，安徽师范大学，2025年11月1-2日
+1. “艺术与科技”第六届艺术学论坛，东南大学、《文艺研究》编辑部，2025年10月18日
+1. 中国比较文学学会跨学科研究分会2025年年度会议，中山大学外国语学院，2025年9月6-7日
+1. “东方读书会‘当机器开始书写：生成式 AI 与人类表达的未来’”，上海图书馆、东方出版中心，2025年7月26日
+1.  “‘以物为要’：媒介流变中的诗意书写” 青年学者工作坊，浙江大学中文系，2025年6月24日
+1.  “数智时代的人文数据库建设与可视分析” 研讨会，同济大学人文学院，2025年6月14日
+1.  “AI 的助力与反思：技术在文学研究中的应用、机遇与挑战” 论坛，复旦大学中文系，2025年5月25日
+1.  “数字人文方法的观念历史与实践反思” 讲座，同济大学人文学院，2025年5月8日
+1.  “‘文学机器’再审视” 讲座，上海外国语大学新闻传播学院，2025年4月10日
+1.  “站在黑洞边上：《如何思考全球数字资本主义》共读会” 讲座，徐家汇街道，2025年4月8日
+1.  第六届媒介物质性论坛，清华大学新闻与传播学院，2025年3月29-30日
+
+</details>
+<details>
+<summary>2024</summary>
+
+1.  “文化自信与二次元创新：虹口区二次元文化产业高质量发展” 研讨会，上海社会科学院文学研究所、虹口区文旅局，2024年12月28日
+1. 多伦城市论坛 “人工智能与城市多余人” 研讨会，同济大学人文学院等，2024年11月30日
+1. 《游戏研究》辑刊第一次编委会议，华东师大传播学院，2024年11月20日
+1. “文艺的人民性与上海城市文化建设” 理论研讨会，杨浦区委党史研究室，2024年11月19日
+1. “法国理论的新介入：2024年同济大学法国理论会议” 研讨会，同济大学人文学院，2024年11月9日
+1. 会议论文摘要被第六届中国数字人文年会接收，上海大学，2024年11月8-10日
+1. “跨学科下的跨文化交际新形态” 学术研讨会，上海外国语大学，2024年11月1日
+1. “人工智能赋能文艺创作” 专题研讨会，华东师大传播学院等，2024年10月27日
+1. “生成与创作” 学术工作坊，上海大学文学院，2024年10月26日
+1. 艺术学理论前沿论坛第16期 “人工智能对艺术的影响” 研讨会，中国艺术研究院艺术学研究所，2024年10月23日
+1. 会议论文被中国文艺理论学会数字人文分会第二届年会接收，杭州师范大学，2024年10月18-20日
+1. 陆家嘴读书会 “玩电子游戏能获得哲学智慧吗” 对谈，浦东新区宣传部（文体旅游局），2024年10月18日
+1. 文学与文化系列学术讲座 “颜色理论历史生成中的图像媒介——摄影术、水彩与数字图像”，上海社会科学院文学研究所，2024年10月15日
+1. 首届全国研究生游戏论坛暨 “电子游戏的现实与潜能” 学术研讨会（受邀专家圆桌），华东师范大学传播（出版）学院、研究生院，2024年8月18日
+1. 诗、技术与媒介：重访恩岑斯贝格，中国社科院文学所马文室，2024年7月26日
+1. 作为日常生活方式的电子游戏，上海社会科学院文学研究所，2024年7月20日
+1. 参与完成的论文 “Spatial Distribution and Functional Configuration of Industry4.0Enterprises: A Case Study of Germany” 获欧洲城市规划学院联合会 AESOP2024年会接受，2024年7月
+1. 中国文学与比较文学学会（ACCL）2024年双年会议，香港科技大学，2024年6月25日
+1. AI 时代的文艺原理之 “何为写作”，中国艺术研究院马文所、清华大学写作中心，2024年5月19日
+1. “人工智能的推想与亲证” 讲座，上海科技大学人文学院，2024年4月27日
+1. “谁的 City，如何 Walk”，上海社会科学院文学研究所，2024年4月7日
+
+</details>
+<details>
+<summary>2023</summary>
+
+1. 第二届上海社科青年望道论坛圆桌研讨会，复旦大学新闻学院，2023年12月26日
+1. 第一届机器人人文学术研讨会，广东外语外贸大学外文研究院，2023年12月3日
+1. “中国电子游戏的文化生产与媒介传播” 圆桌会议，上海社会科学院文学研究所，2023年11月21日
+1. “审美及其限度” 青年学术研究工作坊，上海大学文学院，2023年10月28日
+1. “新媒体・新话语：文艺理论的知识体系重构”，中国文艺理论学会、上海大学文学院，2023年8月19-20日
+1. “艺术人类学视域下的民族民间文学研究”，中国人类学学会艺术人类学研究会、广西民族大学文学院，2023年6月16-18日
+1. “日常生活的诗学话语青年学者工作坊”，同济大学人文学院，2023年6月11日
+1. “AI 时代，文艺评论的温度”，《解放日报》文艺部、上海文艺评论基金会，2023年4月19日
+1. “‘机’智过人？——ChatGPT 浪潮下的人类文明新图景高端论坛”，上海社科院文学所、《探索与争鸣》杂志社，2023年2月19日
+
+</details>
+<details>
+<summary>2022</summary>
+
+1. 清华大学人文学院研究生分会青年学衡沙龙第28期 “锚定 NFT 艺术的价值”，与谈点评，2022年7月8日
+1. 文学所水花雅集第8期 “元宇宙：理论想象与实践空间”，会议组织和发言，2022年5月28日
+
+
+</details>
+<details>
+<summary>2021</summary>
+
+1. 《游戏作为界面：技术图像的视角》,“拒绝在 / 再玩：游戏的精神生态学” 工作坊，华东师范大学哲学系和同济大学艺术与传媒学院，2021年11月14日
+1. 北京电影学院第六届艺术学论坛，2021年11月6-7日
+1. “战后法国思想与当代艺术理论的变动” 研讨会，复旦大学艺术哲学系，2021年11月5-6日
+
+</details>
 
 ## 教学 Teaching
 
@@ -193,15 +283,15 @@ Mainly focusing on the intersection of computer technology and literature and ar
 - 《城市文化经典导读》，“批判城市理论”
 - 《比较文学经典文本导读》，“媒介理论”
 - 《城市空间与文化研究》，“媒介城市”
-- 上海市高校新一代人工智能系列教材《新一代人工智能基础》参与撰写
+- 上海市高校新一代人工智能系列教材《新一代人工智能基础》编撰
 
-## 教育背景 Education
+## <a id="education"></a>教育背景 Education
 
 - 复旦大学中文系文艺学专业文学博士，2018
 - 复旦大学中文系汉语言文学第二学士学位，2014
 - 复旦大学计算机科学技术学院计算机科学与技术理学士学位，2013
 
-## 学术服务 Professional Services
+## <a id="service"></a>学术服务 Professional Services
 
 - 《游戏研究》编委
 - 中国人类学学会艺术人类学研究会常务理事
@@ -211,7 +301,7 @@ Mainly focusing on the intersection of computer technology and literature and ar
 - 《中国图书评论》2024年度好书评
 - 中数协游戏工委2024-2025年度游戏研究成果推优活动二等奖
 
-## 课题 Grants
+## <a id="grants"></a>课题 Grants
 
 - 国家社科基金后期资助项目《计算机艺术的形态发生》
 - 国家社科艺术学青年课题《计算机艺术历史生成问题的人类学美学研究》
