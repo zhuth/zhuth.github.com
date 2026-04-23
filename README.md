@@ -5,6 +5,10 @@
 
 E-mail: thzhu15 \[at\] fudan.edu.cn
 
+> 融汇美学、技术哲学与媒介研究，为数字时代的人文与艺术建立一套立足技术现实、不失人文批判力度的阐释框架。
+>
+> Integrating aesthetics, philosophy of technology, and media studies, to establish an interpretive framework for the humanities and arts in the digital age that is grounded in technological realities while retaining a humanistic critical edge.
+
 - [研究方向](#interests)
 - [核心观点](#insights)
 - [学术著作](#monograph)
