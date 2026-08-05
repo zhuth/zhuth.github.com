@@ -5,7 +5,7 @@
 
 E-mail: zhuth \[at\] live.cn
 
-> 融汇美学、技术哲学与媒介研究，为数字时代的人文与艺术建立一套立足技术现实、不失人文批判力度的阐释框架。
+> 融汇美学、技术哲学与媒介研究，为数字时代的人文与艺术建立立足现实、不失人文批判力度的阐释框架。
 >
 > Integrating aesthetics, philosophy of technology, and media studies, to establish an interpretive framework for the humanities and arts in the digital age that is grounded in technological realities while retaining a humanistic critical edge.
 
@@ -50,7 +50,8 @@ Furthermore, on topics such as digital artefacts, urban walking, and technical i
 
 ## <a id="pub"></a>发表论文 Publications
 
-1. 朱恬骅：《玩法即游戏：论电子游戏中的“遵守规则悖论”》，《游戏研究》（第一辑〉，上海三联书店，2026年4月 [[md](assets/PlayAsGame_2026.md)]
+1. 朱恬骅：《“反类型”的科幻文学何以可能——以赫伯特·W.弗朗克的创作为中心》，《科幻人文》（第三辑），重庆大学出版社，2026年6月 [[cnki](https://kns.cnki.net/kcms2/article/abstract?v=xC-_u-weiHv7xNPeRI01D-ZeZO673q-MqFBBJHIEXR_aX5yi3lbdfMLJ-e1qEWuyJK9hHczpWRnuAIHevoBL8FgK6XaLjB4UV7odLBhkSIsIpaBzMVKhTjqmj8emeh94k7CsV5YMPhUu9f-OxU-WRp3jaeQgkes8xy2Nxb4gnwBXz3ZVnh2G2g==&uniplatform=NZKPT&language=CHS)]
+1. 朱恬骅：《玩法即游戏：论电子游戏中的“遵守规则悖论”》，《游戏研究》（第一辑〉，上海三联书店，2026年4月 [[wechat](https://mp.weixin.qq.com/s/HbRmb9pBapCWRzjdilgX6w?scene=1)]
 1. 朱恬骅：《艺术“实验”作为概念的物质性演绎——以早期计算机艺术的历史情境为中心》，《上海文化》，2026年第4期，第96-105页 [[wechat](https://mp.weixin.qq.com/s/aAueuBT0FsGm2HlgXM9zpg)] [[cnki](https://kns.cnki.net/kcms2/article/abstract?v=ZO6hV6rGk-YvkCs6Trsc-caZn1_5FMzz2x77iozdlIwQTYLl2nteL70C7tbUyM8VTTwoWmv0yNrOeHvaWwzmUsoKzI-M8StcpvqsG4AkSoa3pLGnmTpO1beH_Hml9sbtTdfNltJsMr6xoVqJ0LhhbTgGknULNBIE4upQrsd_0bwV5SebPpasfQ==&uniplatform=NZKPT&language=CHS)]
 2. 朱恬骅：《数字人文工具的情境知识与技术经验的情境还原——计算批评的另一种可能》，《河北师范大学学报（哲学社会科学版）》，2026年第1期，第57-63页 [[wechat](https://mp.weixin.qq.com/s/zqe6KrWs0P2l32Eksu3Z6A)] [[pdf](assets/ContextualKnowledgeOfDHT_2026.pdf)]
 3. 朱恬骅：《早期计算机艺术的经济依附策略》，《艺术学研究进展》，2025年第4期，第437-449页 [[publisher](http://www.scifootprint.com/Contribution/download.aspx?filetype=PeriodicalDirectoryFile&muLuId=c0bdbe9f-b22b-4d5c-b8d9-a1dbb15dc8f6)] [[pdf](assets/ComputerArtEconomics_2025.pdf)]
