@@ -49,6 +49,7 @@ Furthermore, on topics such as digital artefacts, urban walking, and technical i
 
 
 ## <a id="pub"></a>发表论文 Publications
+1. 朱恬骅：《数据库何以成为“实践”：技术操作中的“想象性预演”与阻抗调适》，《山东社会科学》2026年第10期，第48—57页。
 
 1. 朱恬骅：《“反类型”的科幻文学何以可能——以赫伯特·W.弗朗克的创作为中心》，《科幻人文》（第三辑），重庆大学出版社，2026年6月 [[cnki](https://kns.cnki.net/kcms2/article/abstract?v=xC-_u-weiHv7xNPeRI01D-ZeZO673q-MqFBBJHIEXR_aX5yi3lbdfMLJ-e1qEWuyJK9hHczpWRnuAIHevoBL8FgK6XaLjB4UV7odLBhkSIsIpaBzMVKhTjqmj8emeh94k7CsV5YMPhUu9f-OxU-WRp3jaeQgkes8xy2Nxb4gnwBXz3ZVnh2G2g==&uniplatform=NZKPT&language=CHS)]
 1. 朱恬骅：《玩法即游戏：论电子游戏中的“遵守规则悖论”》，《游戏研究》（第一辑〉，上海三联书店，2026年4月 [[wechat](https://mp.weixin.qq.com/s/HbRmb9pBapCWRzjdilgX6w?scene=1)]
